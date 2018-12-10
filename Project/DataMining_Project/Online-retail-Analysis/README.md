@@ -10,7 +10,7 @@ The code was executed using Python3. Following libraries are used in the analysi
 3. matplotlib
 4. sklearn
 
-Project-Work:
+Projet-Work:
 
  Section-1: Customer Segmentation
  
